@@ -1,2 +1,8 @@
 .mcp.json
 .claude/
+
+# voice-design experiments (local only)
+work/
+
+# mac
+.DS_Store
